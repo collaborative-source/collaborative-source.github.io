@@ -1,1 +1,4 @@
-theme: jekyll-theme-merlot
+# site settings
+remote_theme: daattali/beautiful-jekyll
+title: Progressive Technology Coalition
+description: building technology in a progressive way
