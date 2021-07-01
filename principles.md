@@ -3,7 +3,9 @@ layout: default
 title: Principles for Progressive Technology
 ---
 
-*Note: This is very much a work in progress. Feedback is welcome!**
+# Principles for Progressive Technology
+
+*Note: This is very much a work in progress. Feedback is welcome!*
 
 The progressive movement should be building technology that matches its needs and values, and it should be doing so in a manner that matches its needs and values. The following five principles can guide us in doing so. By following these principles, we will develop technology that is a better fit for our communities, our goals, and for the world that we want to live in.
 
