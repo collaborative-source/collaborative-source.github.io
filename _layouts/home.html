@@ -1,0 +1,28 @@
+---
+layout: base
+splash: true
+---
+
+<div class="intro-header splash-header">
+    <img style="width:100%;" src="/assets/collab_source_banner.png" />
+</div>
+
+<div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  {% if page.before-content %}
+    <div class="before-content">
+      {% for file in page.before-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {{ content }}
+
+  {% if page.after-content %}
+    <div class="after-content">
+      {% for file in page.after-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</div>

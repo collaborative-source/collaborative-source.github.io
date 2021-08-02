@@ -3,6 +3,9 @@ remote_theme: daattali/beautiful-jekyll
 title: Collaborative Source
 description: building technology in a progressive way
 
+site-css:
+  - "/assets/css/custom-styles.css"
+
 navbar-links:
   Principles: https://collaborative-source.github.io/principles.html
   Guides: https://collaborative-source.github.io/guides.html

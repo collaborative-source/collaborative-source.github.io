@@ -1,0 +1,25 @@
+
+
+.navbar-custom, footer {
+    background-color: #8a5852;
+    border-bottom: 1px solid #8a5852;
+    color: #fee0c9;
+}
+
+footer {
+    font-size: 110%;
+}
+
+.navbar-custom .navbar-nav .nav-link, .navbar-custom .navbar-brand {
+    color: #fee0c9;
+}
+
+.navbar-custom .navbar-nav .nav-link:hover, .navbar-custom .navbar-brand:hover {
+    color: #e65497;
+
+}
+
+.splash-header {
+    margin-top: 0px;
+}
+
